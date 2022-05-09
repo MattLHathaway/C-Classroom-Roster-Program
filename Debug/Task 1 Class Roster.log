@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\User1\Desktop\Task 1 Class Roster\main.cpp(17,9): warning C4101: 'i': unreferenced local variable
+  roster.cpp
+C:\Users\User1\Desktop\Task 1 Class Roster\roster.cpp(138,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User1\Desktop\Task 1 Class Roster\roster.cpp(165,12): warning C4101: 'j': unreferenced local variable
+  student.cpp
+C:\Users\User1\Desktop\Task 1 Class Roster\student.cpp(30,16): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User1\Desktop\Task 1 Class Roster\student.cpp(120,6): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  Task 1 Class Roster.vcxproj -> C:\Users\User1\Desktop\Task 1 Class Roster\Debug\Task 1 Class Roster.exe
